@@ -4,6 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
+2020.12.10 - TypeCasting
 2020.12.09 - UIViewController
 2020.12.08 - swift 문법 1차 마무리
 2020.12.07 - swift 문법...
