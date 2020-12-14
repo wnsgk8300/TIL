@@ -4,6 +4,8 @@ Today I Learned...
 ---
 
 ## Topic
+2020.12.14 - MusicPlayer AVFoundation, Timer...
+2020.12.13 - MusicPlayer Layout
 2020.12.12 - MusicPlayer
 2020.12.11 - NavigationController
 2020.12.10 - TypeCasting
