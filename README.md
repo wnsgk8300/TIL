@@ -4,7 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
-2020.12.14 - fastcampus start
+sf2020.12.15 - fastcampus start
 2020.12.14 - MusicPlayer AVFoundation, Timer...
 2020.12.13 - MusicPlayer Layout
 2020.12.12 - MusicPlayer
