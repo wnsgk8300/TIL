@@ -4,6 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
+2020.12.19 - Operators, 원피스현상금앱
 2020.12.18 - Operators
 2020.12.17 - Naming Convention.
 2020.12.16 - kxcoding.
