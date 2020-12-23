@@ -4,7 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
-2020.12.23 - new MacBook
+2020.12.23 - new MacBook, setting
 2020.12.22 - dreamplus
 2020.12.20 - 원피스 현상금앱, 프로토콜
 2020.12.19 - Operators, 원피스현상금앱
