@@ -4,6 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
+2020.12.24 - Cinditional Statements, Loop statements
 2020.12.23 - new MacBook, setting
 2020.12.22 - dreamplus
 2020.12.20 - 원피스 현상금앱, 프로토콜
