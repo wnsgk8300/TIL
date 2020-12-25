@@ -4,7 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
-2020.12.25 - Control Transfer Statements, Labeled Statements
+2020.12.25 - Control Transfer Statements, Labeled Statements2
 2020.12.24 - Cinditional Statements, Loop statements
 2020.12.23 - new MacBook, setting
 2020.12.22 - dreamplus
