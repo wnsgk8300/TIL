@@ -4,6 +4,8 @@ Today I Learned...
 ---
 
 ## Topic
+2020.12.28 - Colsures
+1212.12.27 - Function
 2020.12.26 - Optional
 2020.12.25 - Control Transfer Statements, Labeled Statements2
 2020.12.24 - Cinditional Statements, Loop statements
