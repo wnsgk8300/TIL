@@ -4,6 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
+2020.12.29 - Tuples
 2020.12.28 - Colsures
 1212.12.27 - Function
 2020.12.26 - Optional
