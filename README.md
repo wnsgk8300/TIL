@@ -4,6 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
+2020.01.01 - Enumeration
 2020.12.31 - String and Character
 2020.12.30 - 배열
 2020.12.29 - Tuples
