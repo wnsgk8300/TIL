@@ -4,6 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
+2020.01.07 - Extension
 2020.01.06 - Inheritance and Polymorphism
 2020.01.05 - DreamPlus Study
 2020.01.04 - Property
