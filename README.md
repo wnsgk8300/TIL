@@ -4,6 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
+2020.01.17 - Handling Text and Font
 2020.01.16 - Handling Image and Color
 2020.01.15 - Image
 2020.01.14 - DreamPlus Study
