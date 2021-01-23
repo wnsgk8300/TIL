@@ -4,7 +4,8 @@ Today I Learned...
 ---
 
 ## Topic
-2020.01.22 - Collection View
+2020.01.23 - Collection View
+2020.01.22 - Collection View, Chenese Reataurant Upgrade
 2020.01.21 - Chinese Restaurant_Ver2
 2020.01.20 - Chinese Restaurant 
 2020.01.19 - DreamPlus Study
