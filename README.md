@@ -4,32 +4,33 @@ Today I Learned...
 ---
 
 ## Topic
-2020.01.26 - DreamPlus Study
-2020.01.25 - Auto Layout & Adaptive UI
-2020.01.24 - Animation & Transition
-2020.01.23 - Collection View
-2020.01.22 - Collection View, Chenese Reataurant Upgrade
-2020.01.21 - Chinese Restaurant_Ver2
-2020.01.20 - Chinese Restaurant 
-2020.01.19 - DreamPlus Study
-2020.01.18 - Table View
-2020.01.17 - Handling Text and Font
-2020.01.16 - Handling Image and Color
-2020.01.15 - Image
-2020.01.14 - DreamPlus Study
-2020.01.13 - RGBButton
-2020.01.12 - DreamPlus Study
-2020.01.11 - SystemView & Control
-2020.01.10 - UIControl, Button
-2020.01.09 - Migration Guide
-2020.01.08 - iOS
-2020.01.07 - Extension
-2020.01.06 - Inheritance and Polymorphism
-2020.01.05 - DreamPlus Study
-2020.01.04 - Property
-2020.01.03 - Structure and Class
-2020.01.02 - Enumeration
-2020.01.01 - Enumeration
+2021.01.27 - Domino's Pizza
+2021.01.26 - DreamPlus Study
+2021.01.25 - Auto Layout & Adaptive UI
+2021.01.24 - Animation & Transition
+2021.01.23 - Collection View
+2021.01.22 - Collection View, Chenese Reataurant Upgrade
+2021.01.21 - Chinese Restaurant_Ver2
+2021.01.20 - Chinese Restaurant 
+2021.01.19 - DreamPlus Study
+2021.01.18 - Table View
+2021.01.17 - Handling Text and Font
+2021.01.16 - Handling Image and Color
+2021.01.15 - Image
+2021.01.14 - DreamPlus Study
+2021.01.13 - RGBButton
+2021.01.12 - DreamPlus Study
+2021.01.11 - SystemView & Control
+2021.01.10 - UIControl, Button
+2021.01.09 - Migration Guide
+2021.01.08 - iOS
+2021.01.07 - Extension
+2021.01.06 - Inheritance and Polymorphism
+2021.01.05 - DreamPlus Study
+2021.01.04 - Property
+2021.01.03 - Structure and Class
+2021.01.02 - Enumeration
+2021.01.01 - Enumeration
 2020.12.31 - String and Character
 2020.12.30 - 배열
 2020.12.29 - Tuples
