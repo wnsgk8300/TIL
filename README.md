@@ -4,6 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
+2021.01.28 - Domino's Pizza with KasRoid
 2021.01.27 - Domino's Pizza
 2021.01.26 - DreamPlus Study
 2021.01.25 - Auto Layout & Adaptive UI
