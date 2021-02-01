@@ -4,6 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
+2021.02.01 - Domino's Pizza, Chinese Restaurant
 2021.01.31 - View Controller and Storyboard
 2021.01.30 - View Controller and Storyboard
 2021.01.29 - View Controller and Stroyboard
