@@ -4,6 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
+2021.02.03 - Gesture Recognizers
 2021.02.02 - DreamPlusStudy
 2021.02.01 - Domino's Pizza, Chinese Restaurant
 2021.01.31 - View Controller and Storyboard
