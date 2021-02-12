@@ -4,6 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
+2021.02.12 - Animation Practice
 2021.02.11 - Animation, transition
 2021.02.10 - Animation
 2021.02.09 - DreamPlus study
