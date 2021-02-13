@@ -4,6 +4,7 @@ Today I Learned...
 ---
 
 ## Topic
+2021.02.13 - Animation Practice2
 2021.02.12 - Animation Practice
 2021.02.11 - Animation, transition
 2021.02.10 - Animation
