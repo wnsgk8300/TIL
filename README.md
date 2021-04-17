@@ -5,6 +5,8 @@ Today I Learned...
 
 ## Topic
 
+2021.04.18 - FoodLocation Delegate
+
 2021.04.17 - FoodLocation 
 
 2021.04.16 - FoodLocation Data
