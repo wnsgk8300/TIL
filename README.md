@@ -5,6 +5,8 @@ Today I Learned...
 
 ## Topic
 
+2021.04.25 - Hamberger
+
 2021.04.24 - Diary
 
 2021.04.23 - Jun1
