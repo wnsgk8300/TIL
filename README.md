@@ -5,6 +5,8 @@ Today I Learned...
 
 ## Topic
 
+2021.04.30 - CollectionView
+
 2021.04.29 - GameJun LiarGame
 
 2021.04.28 - New Project
