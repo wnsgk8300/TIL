@@ -5,6 +5,8 @@ Today I Learned...
 
 ## Topic
 
+2021.05.05 - InitialGame
+
 2021.05.04 - RegEx
 
 2021.05.03 - DreamPlus Study
