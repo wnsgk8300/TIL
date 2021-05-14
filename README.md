@@ -5,6 +5,8 @@ Today I Learned...
 
 ## Topic
 
+2020.05.14 - 게임이닭 디자인 마무리
+
 2020.05.11 - Timer
 
 2020.05.10 - DreamPlus Study
