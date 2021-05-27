@@ -5,7 +5,9 @@ Today I Learned...
 
 ## Topic
 
-2020.05.24 - DreamPlus Study (Rest API)
+2020.05.27 - 야곰의 스위프트 프로그래밍 데이터 타입
+
+2020.05.26 - DreamPlus Study (Rest API)
 
 2020.05.25 - 야곰의 스위프트 프로그래밍 
 
