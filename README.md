@@ -5,6 +5,8 @@ Today I Learned...
 
 ## Topic
 
+2021.06.18 - Fastcampus online - 사진
+
 2021.06.17 - 이력서 작성
 
 2021.06.15 - Hugo 포트폴리오 만들기
