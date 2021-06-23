@@ -5,6 +5,8 @@ Today I Learned...
 
 ## Topic
 
+2021.06.23 - DreamPlus Study - Closure
+
 2021.06.22 - DreamKurly
 
 2021.06.21 - DreamPlus - 
