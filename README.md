@@ -5,6 +5,8 @@ Today I Learned...
 
 ## Topic
 
+2021.06.24 - Study - Protocol
+
 2021.06.23 - DreamPlus Study - Closure
 
 2021.06.22 - DreamKurly
@@ -19,9 +21,7 @@ Today I Learned...
 
 2021.06.14 - DreamPlus Studt - 이력서 작성
 
-2021.06.13 - TodayHouse collectionView inside TableView
-
-2021.06.11 - TodayHouse - Home화면 
+2021.06.13 - TodayHouse collectionView inside TableVie2021.06.11 - TodayHouse - Home화면 
 
 2020.06.10 - TodayHouse - Home화면
 
