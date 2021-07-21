@@ -5,6 +5,8 @@ Today I Learned...
 
 ## Topic
 
+2021.07.21 - DreamPlus Study - delegate, 단축키
+
 2021.07.20 - 면접 질문 정리
 
 2021.07.19 - DreamPlus Study
