@@ -5,7 +5,9 @@ Today I Learned...
 
 ## Topic
 
-2021.07.21 - DreamPlus Study - delegate, 단축키
+2021.07.22 - 이력서 수정, 게임이닭 싱글톤패턴 개선
+
+2021.07.21 - DreamPlus Study - delegate, 단축키 
 
 2021.07.20 - 면접 질문 정리
 
