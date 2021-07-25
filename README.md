@@ -5,6 +5,8 @@ Today I Learned...
 
 ## Topic
 
+2021.07.25 - Thread, sync, async 
+
 2021.07.24 - ARC, 객체지향 등 
 
 2021.07.22 - 이력서 수정, 게임이닭 싱글톤패턴 개선
