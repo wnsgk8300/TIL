@@ -15,11 +15,11 @@ Today I Learned...
 
 2021.07.22 - 이력서 수정, 게임이닭 싱글톤패턴 개선
 
-2021.07.21 - DreamPlus Study - delegate, 단축키 
+2021.07.21 - iOS 개발 Study - delegate, 단축키 
 
 2021.07.20 - 면접 질문 정리
 
-2021.07.19 - DreamPlus Study
+2021.07.19 - iOS 개발 Study
 
 2021.07.18 - PlayGround 오류 확인
 
@@ -81,7 +81,7 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 
 2021.07.08 - 시어스랩 면접 리뷰
 
-2021.06.30 - DreamPlus Study - Swift 기본
+2021.06.30 - iOS 개발 Study - Swift 기본
 
 2021.06.29 - DreamKurly - collection inside tableview
 
@@ -89,11 +89,11 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 
 2021.06.24 - Study - Protocol
 
-2021.06.23 - DreamPlus Study - Closure
+2021.06.23 - iOS 개발 Study - Closure
 
 2021.06.22 - DreamKurly
 
-2021.06.21 - DreamPlus - 
+2021.06.21 - iOS 개발 - 
 
 2021.06.18 - Fastcampus online - 사진
 
@@ -101,17 +101,17 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 
 2021.06.15 - Hugo 포트폴리오 만들기
 
-2021.06.14 - DreamPlus Studt - 이력서 작성
+2021.06.14 - iOS 개발 Studt - 이력서 작성
 
 2021.06.13 - TodayHouse collectionView inside TableVie2021.06.11 - TodayHouse - Home화면 
 
 2020.06.10 - TodayHouse - Home화면
 
-2021.06.09 - DreamPlusStudy - Control Flow
+2021.06.09 - iOS 개발Study - Control Flow
 
 2021.06.08 - rocketpunch 이력서 
 
-2021.06.07 - DreamPlus Study - Colletion
+2021.06.07 - iOS 개발 Study - Colletion
 
 2021.06.06 - Today-sHouse 합치기
 
@@ -119,11 +119,11 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 
 2021.06.03 - CustomTapBar
 
-2021.06.02 - DreamPlus Study - enum
+2021.06.02 - iOS 개발 Study - enum
 
 2021.06.01 - TodayHouse
 
-2021.05.31 - DreamPlus Study - trouble shooting
+2021.05.31 - iOS 개발 Study - trouble shooting
 
 2021.05.30 - tableview, collectionview
 
@@ -133,11 +133,11 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 
 2021.05.27 - 야곰의 스위프트 프로그래밍 데이터 타입
 
-2021.05.26 - DreamPlus Study (Rest API)
+2021.05.26 - iOS 개발 Study (Rest API)
 
 2021.05.25 - 야곰의 스위프트 프로그래밍 
 
-2021.05.24 - DreamPlus Study
+2021.05.24 - iOS 개발 Study
 
 2021.05.22 - 야곰의 스위프트 프로그래밍 
 
@@ -155,7 +155,7 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 
 2021.05.11 - Timer
 
-2021.05.10 - DreamPlus Study
+2021.05.10 - iOS 개발 Study
 
 2021.05.08 - Timer
 
@@ -167,7 +167,7 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 
 2021.05.04 - RegEx
 
-2021.05.03 - DreamPlus Study
+2021.05.03 - iOS 개발 Study
 
 2021.05.02 - LiarView
 
@@ -181,7 +181,7 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 
 2021.04.27 - GameJung
 
-2021.04.26 - DreamPlus Study
+2021.04.26 - iOS 개발 Study
 
 2021.04.25 - Hamberger
 
@@ -191,7 +191,7 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 
 2021.04.22 - FoolLocation NaverMap
 
-2021.04.21 - DreamPlus Study
+2021.04.21 - iOS 개발 Study
 
 2021.04.20 - FoodLocation LogIn
 
@@ -231,11 +231,11 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 
 2021.04.01 - GameApp
 
-2021.03.31 - DreamPlusStudy
+2021.03.31 - iOS 개발Study
 
 2021.03.30 - MapKit
 
-2021.03.29 - DreamPlusStudy
+2021.03.29 - iOS 개발Study
 
 2021.03.28 - Application
 
@@ -245,7 +245,7 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 
 2021.03.25 - App
 
-2021.03.24 - DreamPlusStudy
+2021.03.24 - iOS 개발Study
 
 2021.03.23 - About Today
 
@@ -257,7 +257,7 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 
 2021.03.19 - AboutToday
 
-2021.03.18 - DreamPlusStudy
+2021.03.18 - iOS 개발Study
 
 2021.03.16 - 2nd Project
 
@@ -273,7 +273,7 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 
 2021.03.10 - 2nd Project
 
-2021.03.09 - DreamPlusStudy
+2021.03.09 - iOS 개발Study
 
 2021.03.08 - network4
 
@@ -304,51 +304,51 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 2021.02.21 - Domino Review
 2021.02.20 - ChineseRestaurant Review
 2021.02.19 - rgbButton Porject Review
-2021.02.18 - DreamPlus Study
+2021.02.18 - iOS 개발 Study
 2021.02.17 - Animation
-2021.02.16 - DreamPlus Study
+2021.02.16 - iOS 개발 Study
 2021.02.15 - Animation Practice3
 2021.02.14 - Gesture Recognizers
 2021.02.13 - Animation Practice2
 2021.02.12 - Animation Practice
 2021.02.11 - Animation, transition
 2021.02.10 - Animation
-2021.02.09 - DreamPlus study
+2021.02.09 - iOS 개발 study
 2021.02.08 - Login Project
 2021.02.07 - Login Project
 2021.02.06 - Notification
 2021.02.05 - Notification
-2021.02.04 - DreamPlus Study
+2021.02.04 - iOS 개발 Study
 2021.02.03 - Gesture Recognizers
-2021.02.02 - DreamPlusStudy
+2021.02.02 - iOS 개발Study
 2021.02.01 - Domino's Pizza, Chinese Restaurant
 2021.01.31 - View Controller and Storyboard
 2021.01.30 - View Controller and Storyboard
 2021.01.29 - View Controller and Stroyboard
 2021.01.28 - Domino's Pizza with KasRoid
 2021.01.27 - Domino's Pizza
-2021.01.26 - DreamPlus Study
+2021.01.26 - iOS 개발 Study
 2021.01.25 - Auto Layout & Adaptive UI
 2021.01.24 - Animation & Transition
 2021.01.23 - Collection View
 2021.01.22 - Collection View, Chenese Reataurant Upgrade
 2021.01.21 - Chinese Restaurant_Ver2
 2021.01.20 - Chinese Restaurant 
-2021.01.19 - DreamPlus Study
+2021.01.19 - iOS 개발 Study
 2021.01.18 - Table View
 2021.01.17 - Handling Text and Font
 2021.01.16 - Handling Image and Color
 2021.01.15 - Image
-2021.01.14 - DreamPlus Study
+2021.01.14 - iOS 개발 Study
 2021.01.13 - RGBButton
-2021.01.12 - DreamPlus Study
+2021.01.12 - iOS 개발 Study
 2021.01.11 - SystemView & Control
 2021.01.10 - UIControl, Button
 2021.01.09 - Migration Guide
 2021.01.08 - iOS
 2021.01.07 - Extension
 2021.01.06 - Inheritance and Polymorphism
-2021.01.05 - DreamPlus Study
+2021.01.05 - iOS 개발 Study
 2021.01.04 - Property
 2021.01.03 - Structure and Class
 2021.01.02 - Enumeration
@@ -362,7 +362,7 @@ mvvm: 뷰와 모델 의존성 없고, 뷰와 뷰모델도 의손성 없어서 �
 2020.12.25 - Control Transfer Statements, Labeled Statements2
 2020.12.24 - Cinditional Statements, Loop statements
 2020.12.23 - new MacBook, setting
-2020.12.22 - dreamplus
+2020.12.22 - iOS 개발
 2020.12.20 - 원피스 현상금앱, 프로토콜
 2020.12.19 - Operators, 원피스현상금앱
 2020.12.18 - Operators
