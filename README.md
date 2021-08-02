@@ -5,7 +5,9 @@ Today I Learned...
 
 ## Topic
 
-2021.08.01 - alarmofire
+2021.08.02 - MVC to MVVM
+
+2021.08.01 - alarmofire 
 
 2021.07.31 - MVVM
 
