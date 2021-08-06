@@ -5,7 +5,9 @@ Today I Learned...
 
 ## Topic
 
-2021.08.05 - Texture(AsyncDisplayKit) _ Texture란, Node
+2021.08.06 - Texture - LayoutSpec
+
+2021.08.05 - Texture(AsyncDisplayKit) _ Texture란,  Node
 
 2021.08.03 - PhotyPeta 코드 분석
 
