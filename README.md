@@ -5,6 +5,8 @@ Today I Learned...
 
 ## Topic
 
+2021.08.09 - New m1 setting
+
 2021.08.08 - Texture - Example
 
 2021.08.06 - Texture - LayoutSpec
