@@ -5,6 +5,8 @@ Today I Learned...
 
 ## Topic
 
+2021.08.16 - Texture - Firebase
+
 2021.08.15 - 라이브러리 분석
 
 2021.08.12 - Texture - Nodes
